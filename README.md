@@ -29,3 +29,10 @@
 | New visual code window or instance | `command + shift + n`               | `Ctrl + Shift + N`               |
 | To Close window or instance        | `command + w`                       | `Ctrl + Shift + W`               |
 | To open Keyboard Shortcuts         | `command + k command + s`           | `Ctrl + K Ctrl + S`              |
+
+### Navigation Shortcuts:
+
+| Command Action                | Mac             | Windows      |
+| ----------------------------- | --------------- | ------------ |
+| Go to File...                 | `command + p`   | `Ctrl + P`   |
+| Navigate editor group history | `control + Tab` | `Ctrl + Tab` |
